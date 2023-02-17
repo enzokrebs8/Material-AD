@@ -1,2 +1,2 @@
 # Material-AD
-Material de Arte Digital Curso Info 1° C
+Material de Arte Digital 1° C
